@@ -7,7 +7,7 @@
  # mvn cleam compile
  # mvn spring-boot:run
  
-5.check SWAGGER UI once  http://localhost:8080/swagger-ui.html
+5.check SWAGGER UI once  http://localhost:8080/swagger-ui.html#/agilisium-web-resource
 
 6.call this authenticate api to get the access token
      method: POST

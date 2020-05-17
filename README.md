@@ -28,13 +28,13 @@
           METHOD : GET
           API    :http://localhost:8080/agilisium/api/getProductDetails
           SET HEADER : Authorization
-          PASS ACCESS TOKEN AS Authorization PARAM VALUE   WHICH YOU GOT 
+          PASS ACCESS TOKEN AS Authorization PARAM VALUE with Bearer  
           
           
           METHOD : GET
           API    :http://localhost:8080/agilisium/api/getConfigDetails
           SET HEADER : Authorization
-          PASS ACCESS TOKEN AS Authorization PARAM VALUE   WHICH YOU GOT 
+          PASS ACCESS TOKEN AS Authorization PARAM VALUE with Bearer
           
           
   
